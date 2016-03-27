@@ -1,11 +1,13 @@
 package org.lizemery;
 
 public class Main {
+    int age = 0;
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Goodbye Cruel World");
 
-
+        age = age + 7;
+        System.out.println("Lois is : " + loisAge);
     }
+
+
 }
